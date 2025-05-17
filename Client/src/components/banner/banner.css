@@ -1,0 +1,9 @@
+/* .box{
+    float:right;
+} */
+
+@media screen and (max-width:769px){
+    .image-{
+        display:none;
+    }
+}

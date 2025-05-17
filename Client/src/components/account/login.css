@@ -1,0 +1,10 @@
+input:focus{
+    color:white;
+}
+input{
+    color:white;
+}
+.box{
+    color:rgb(206, 206, 206);
+    color:gray;
+}
